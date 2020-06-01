@@ -3,7 +3,8 @@ html{
 }
 
 #page-home {
-    background-url: url('');
+    height: 100vh;
+    background: url('../assets/1440x900.jpg') no-repeat;
 }
 
 #page-home .content{
