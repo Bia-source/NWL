@@ -1,10 +1,19 @@
 html{
     font-family: 'Roboto', sans-serif;
+    color:white;
+}
+
+body{
+   background: #121111  ;
+}
+.titulo{
+    color: #1B9D4E ;
+    font-size: 25px;
 }
 
 #page-home {
     height: 100vh;
-    background: url('../assets/1440x900.jpg') no-repeat;
+    background: url('../assets/home-background.svg') no-repeat;
 }
 
 #page-home .content{
